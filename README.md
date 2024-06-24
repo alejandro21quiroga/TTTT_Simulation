@@ -4,3 +4,5 @@ This repository includes samples, cards, and models used for the four top five f
 
 We generated the matrix elements with MadGraph5_aMC@NLO version 3.4.2, the patron shower with Pythia8, and the detector simulation with DELPHES.
 
+We present samples for 30.000 events and 300.000 events withe the full MC simulation.
+
