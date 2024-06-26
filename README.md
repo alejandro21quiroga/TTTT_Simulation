@@ -4,5 +4,5 @@ This repository includes samples, cards, and the model used for the 4-top five f
 
 We generated the matrix elements with MadGraph5_aMC@NLO version 3.5.1, the patron shower with Pythia8, and the detector simulation with DELPHES.
 
-We present one small sample with 30.000 events and one full sample with 300.000 events. We include five different Wilson coefficients that affect the 4-top interaction, $t_{t}$.
+We present one sample with 30.000 events and one for 300.000 events. We include five Wilson coefficients that affect the 4-top interaction presented in the UFO model $c_{tt1}$, $c_{Qt1}$ and $c_{Qt8}$.
 
